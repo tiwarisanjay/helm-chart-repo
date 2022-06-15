@@ -3,25 +3,25 @@ entries:
   awdex-microsoft:
   - apiVersion: v2
     appVersion: v2.30.0
-    created: "2022-06-14T21:45:36.40705-04:00"
+    created: "2022-06-14T22:54:10.951607-04:00"
     dependencies:
     - name: argo-workflows
       repository: https://argoproj.github.io/argo-helm
       version: 0.16.2
     description: A Helm chart for argo workflow integration with dex using microsoft
       connector
-    digest: 451c8dac2c6cf38ea8007d22510fc7147914e9e7c56dfc36a8b817bae58cc861
+    digest: d916a1a6149acfe238d1a87c4b5c2a27153f4a225b887b585ce29044c38761a7
     maintainers:
     - name: tiwarisanjay
     name: awdex-microsoft
     type: application
     urls:
-    - https://tiwarisanjay.github.io/helm-chart-repo/awdex-microsoft-0.1.0.tgz
-    version: 0.1.0
+    - https://tiwarisanjay.github.io/helm-chart-repo/awdex-microsoft-0.2.0.tgz
+    version: 0.2.0
   test-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-14T21:45:36.408226-04:00"
+    created: "2022-06-14T22:54:10.951833-04:00"
     description: A Helm chart for Kubernetes
     digest: c28dd35f1ec6f497f50290c7f51ddf2a832bef1d17599a143c0f6b2cff9e24e4
     name: test-app
@@ -29,4 +29,4 @@ entries:
     urls:
     - https://tiwarisanjay.github.io/helm-chart-repo/test-app-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-14T21:45:36.405028-04:00"
+generated: "2022-06-14T22:54:10.950475-04:00"
